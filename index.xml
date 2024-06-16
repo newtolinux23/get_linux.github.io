@@ -20,7 +20,7 @@
       <link>https://newtolinux.innovateiqtech.net/projects/fedora40_script/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/projects/fedora40_script/</guid>
-      <description>Fedora 40 Setup Script Open a Terminal: Open a terminal on your Fedora 40 system.&#xA;Create the Script: Use a text editor like nano to create a new script file.&#xA;sudo nano fedora_setup.sh Write the Script: Copy and paste the following code into the text editor.&#xA;#!/bin/bash # Fedora 40 Setup Script echo &amp;#34;Starting Fedora 40 setup...&amp;#34; # Update the system echo &amp;#34;Updating system...&amp;#34; sudo dnf update -y # Install essential software echo &amp;#34;Installing essential software.</description>
+      <description>[[/img/fedora40_12.png ]]&#xA;Fedora 40 Setup Script Open a Terminal: Open a terminal on your Fedora 40 system.&#xA;Create the Script: Use a text editor like nano to create a new script file.&#xA;sudo nano fedora_setup.sh Write the Script: Copy and paste the following code into the text editor.&#xA;#!/bin/bash # Fedora 40 Setup Script echo &amp;#34;Starting Fedora 40 setup...&amp;#34; # Update the system echo &amp;#34;Updating system...&amp;#34; sudo dnf update -y # Install essential software echo &amp;#34;Installing essential software.</description>
     </item>
     <item>
       <title>Linux commands for dummies</title>
