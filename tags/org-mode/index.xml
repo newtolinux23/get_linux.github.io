@@ -5,16 +5,15 @@
     <link>https://newtolinux.innovateiqtech.net/tags/org-mode/</link>
     <description>Recent content in org-mode on New To Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://newtolinux.innovateiqtech.net/tags/org-mode/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://newtolinux.innovateiqtech.net/tags/org-mode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs Exports to PDF</title>
       <link>https://newtolinux.innovateiqtech.net/blog/org_mode_export/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://newtolinux.innovateiqtech.net/blog/org_mode_export/</guid>
-      <description>Doom Emacs After hearing about Emacs for some time, I began using it last year. Initially, I hesitated due to its steep learning curve and the time investment it required. However, the challenge has been quite rewarding. Emacs has revolutionized my daily computer interactions. Although I used to rely heavily on the mouse, Emacs has shifted my workflow to be more keyboard-centric, enhancing my overall experience.
-The standout feature for me is Org-mode, which has significantly improved my productivity.</description>
+      <description>Doom Emacs After hearing about Emacs for some time, I began using it last year. Initially, I hesitated due to its steep learning curve and the time investment it required. However, the challenge has been quite rewarding. Emacs has revolutionized my daily computer interactions. Although I used to rely heavily on the mouse, Emacs has shifted my workflow to be more keyboard-centric, enhancing my overall experience.&#xA;The standout feature for me is Org-mode, which has significantly improved my productivity.</description>
     </item>
-    
   </channel>
 </rss>
